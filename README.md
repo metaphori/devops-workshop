@@ -1,4 +1,4 @@
-# DevOps Workshop
+# DevOps Tutorial at SERVICES'19
 
 [![Build Status](https://travis-ci.org/metaphori/devops-workshop.svg?branch=master)](https://travis-ci.org/metaphori/devops-workshop)
 
